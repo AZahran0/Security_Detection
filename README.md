@@ -27,32 +27,25 @@ The pipeline combines a YOLO-based detector with LBPH face recognition, maintain
 
 
 ### Gun Detection Screenshots Example
-
-
 <div align="center">
-
-<img src="screenshots\criminal.128.1.jpg" alt="gun1" style="width: 200px; height: 400px; object-fit: cover; margin: 5px;" />
-<img src="screenshots\criminal.128.2.jpg" alt="gun2" style="width: 200px; height: 400px; object-fit: cover; margin: 5px;" />
-<img src="screenshots\criminal.128.3.jpg" alt="gun3" style="width: 200px; height: 400px; object-fit: cover; margin: 5px;" />
-<img src="screenshots\criminal.128.4.jpg" alt="gun4" style="width: 200px; height: 400px; object-fit: cover; margin: 5px;" />
-<img src="screenshots\criminal.128.148.jpg" alt="gun5" style="width: 200px; height: 400px; object-fit: cover; margin: 5px;" />
-<img src="screenshots\criminal.128.213.jpg" alt="gun6" style="width: 200px; height: 400px; object-fit: cover; margin: 5px;" />
-
+<img src="screenshots/criminal.128.1.jpg" alt="gun1" width="200" height="300" />
+<!-- <img src="screenshots/criminal.128.2.jpg" alt="gun2" width="200" height="300" /> -->
+<img src="screenshots/criminal.128.3.jpg" alt="gun3" width="200" height="300" /> 
+<img src="screenshots/criminal.128.4.jpg" alt="gun4" width="200" height="300" />
+<!-- <img src="screenshots/criminal.128.148.jpg" alt="gun5" width="200" height="300" /> -->
+<img src="screenshots/criminal.128.213.jpg" alt="gun6" width="200" height="300" />
 </div>
-
 
 ### Knife Detection Screenshots Example
-
 <div align="center">
-
-<img src="screenshots/criminal.110.1.jpg" alt="shot1" style="width: 200px; height: 300px; object-fit: cover; margin: 5px;" />
-<img src="screenshots/criminal.110.23.jpg" alt="shot3" style="width: 200px; height: 300px; object-fit: cover; margin: 5px;" />
-
-<img src="screenshots/criminal.110.44.jpg" alt="shot4" style="width: 200px; height: 300px; object-fit: cover; margin: 5px;" />
-<img src="screenshots/criminal.110.166.jpg" alt="shot5" style="width: 200px; height: 300px; object-fit: cover; margin: 5px;" />
-<img src="screenshots/criminal.110.656.jpg" alt="shot6" style="width: 200px; height: 300px; object-fit: cover; margin: 5px;" />
-
+<img src="screenshots/criminal.110.1.jpg" alt="shot1" width="200" height="300" />
+<img src="screenshots/criminal.110.23.jpg" alt="shot3" width="200" height="300" />
+<img src="screenshots/criminal.110.44.jpg" alt="shot4" width="200" height="300" />
+<img src="screenshots/criminal.110.166.jpg" alt="shot5" width="200" height="300" />
+<!-- <img src="screenshots/criminal.110.656.jpg" alt="shot6" width="200" height="300" /> -->
 </div>
+
+
 
 ---
 
